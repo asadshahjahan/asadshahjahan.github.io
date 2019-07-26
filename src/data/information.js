@@ -39,7 +39,7 @@ export const WhatsNewAboutExperienceEducationSkills = [
 		details: [
 			{
 				logo: faGithub,
-				name: "asadshahjahan/software-engineer-personal-website",
+				name: "asadshahjahan/ software-engineer-website",
 				web_url: 'https://github.com/asadshahjahan/software-engineer-website',
 				detail: "I have developed a REACT template that can be used by developers for " + 
 								"creating their personal websites. Just update information.js and all of the latest data will be updated.",
